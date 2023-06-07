@@ -1,8 +1,8 @@
-lista = []
+a = []
 
 for i in range(10):
-    valor = float(input(f'informe o {i + 1}° valor:    '))
-    lista.append(valor)
+    b = float(input(f'informe o {i + 1}° valor:    '))
+    a.append(b)
 
-for x in lista:
+for x in a:
     print(x)

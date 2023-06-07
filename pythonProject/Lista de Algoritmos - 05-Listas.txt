@@ -20,16 +20,16 @@ ao contrário da ordem de leitura dos valores.
    e) - A média dos valores pares.
    f) - A média dos valores ímpares.
    g) - A média da soma dos valores pares mais os valores ímpares.
-   
+
 7) - Desenvolva um programa em python que receba valores numéricos informado pelo usuário e cadastre-os em uma lista, caso a lista já contenha o valor informado, exibir a mensagem "Valor já cadastrado". No final exiba todos os valores cadastrados.
 
 8) - Desenvolva um programa em python que receba 10 valores numéricos e guarde-os em uma lista. Verifique se os valores cadastrados são pares ou ímpares e cadastre os valores pares em uma nova lista e os ímpares em outra lista. No final exibir o conteúdo das três listas.
 
 9) - Desenvolva um programa em python que leia 10 valores numéricos informados pelo usuário e armazene-os em um vetor A, leia mais 10 valores numéricos informado pelo usuário armazene-os em outro vetor B, Gere um vetor C, que receberá a soma dos elementos do vetor A e B na sua respectiva posição. Ao final exibir os três vetores A, B e C.
 
-10) - Desenvolva um programa em python que leia 10 valores inteiros informado pelo usuário. No final exibir o menor valor cadastrado no vetor. 
+10) - Desenvolva um programa em python que leia 10 valores inteiros informado pelo usuário. No final exibir o menor valor cadastrado no vetor.
 
-11) - Desenvolva um programa em python que leia 10 valores inteiros informado pelo usuário. No final exibir o maior valor cadastrado no vetor. 
+11) - Desenvolva um programa em python que leia 10 valores inteiros informado pelo usuário. No final exibir o maior valor cadastrado no vetor.
 
 12) - Desenvolva um programa em python que leia 10 valores inteiros informado pelo usuário. No final exibir o menor e o maior valor cadastrado no vetor.
 
@@ -38,5 +38,4 @@ ao contrário da ordem de leitura dos valores.
 14) - Desenvolva um programa em python que leia o nome e uma nota para um aluno, crie duas listas para armazenar estes valores,
       o usuário deverá informar um nome de aluno para a pesquisar, se o aluno existir na lista com os nomes do aluno, exibir o nome e a nota do aluno, caso contrário informar a mensagem "Aluno não cadastrado."
 
-15) - [DESAFIO] Desenvolva um procurado em python que leia valores inteiros para um vetor de 20 posições e mostre-o. Em seguida, troque o primeiro elemento pelo o último, o segundo com o penúltimo, o terceiro com o antepenúltimo e, assim, sucessivamente. Mostre o novo vetor após todas as trocas. 
-
+15) - [DESAFIO] Desenvolva um procurado em python que leia valores inteiros para um vetor de 20 posições e mostre-o. Em seguida, troque o primeiro elemento pelo o último, o segundo com o penúltimo, o terceiro com o antepenúltimo e, assim, sucessivamente. Mostre o novo vetor após todas as trocas.
