@@ -1,16 +1,15 @@
 a = []
 b = []
-
-for _ in range(2):
-    c = input("digite o nome do aluno: ")
-    d = float(input("digite a nota do aluno: "))
+for r in range(5):
+    c = input("digite o nome do aluno para adicionar: ")
+    d = float(input("digite a nota do aluno adicionado: "))
     a.append(c)
     b.append(d)
-e = input("digite o nome do aluno a pesquisar: ")
-
+e = input("digite o nome do aluno para pesquisar: ")
 if e in a:
-    print("aluno encontrado")
-    print("nome:", c)
-    print("nota:", b)
+    indice = a.index(e)
+    d = b[indice]
+    print("aluno:", e)
+    print("nota:", d)
 else:
     print("aluno não cadastrado.")

@@ -1,4 +1,6 @@
 import random
+
+
 a = []
 for r in range(10):
     x = (random.randint(0,100))

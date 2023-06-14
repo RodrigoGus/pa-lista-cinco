@@ -1,14 +1,12 @@
-lista = []
-
+a = []
 for i in range (15):
-    valor = float(input(f'insira o {i + 1}° valor:    '))
-    lista.append(valor)
-
+    b = float(input(f'insira o {i + 1}° valor:    '))
+    a.append(b)
 y = 1
-for valor in lista:
-    x = valor % 2
+for b in a:
+    x = b % 2
     if x == 0:
-        print(f'{y}°: {valor} é par')
+        print(f'{y}°: {b} é par')
     else:
-        print(f'{y}°: {valor} é impar')
+        print(f'{y}°: {b} é impar')
     y += 1
